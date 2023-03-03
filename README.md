@@ -2,6 +2,15 @@
 ### `yarn`
 ### `yarn start`
 
+## Viewing on Android
+Enable developer options\
+Enable USB/Wireless debugging\
+Android < 11 ? connect USB cable : Wifi\
+On dev machine go to chrome://inspect/#devices and enable port forwarding Port: 3000 IP: localhost:3000
+
+## Viewing on iPhone
+???
+
 
 # Getting Started with Create React App
 
