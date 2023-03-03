@@ -1,4 +1,4 @@
-### `npm install three @types/three @react-three/fiber`
+### `npm install three @types/three @react-three/fiber @react-three/xr`
 ### `yarn`
 ### `yarn start`
 
@@ -10,7 +10,6 @@ On dev machine go to chrome://inspect/#devices and enable port forwarding Port: 
 
 ## Viewing on iPhone
 ???
-
 
 # Getting Started with Create React App
 
